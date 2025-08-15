@@ -16,7 +16,8 @@ HTTP Client: Axios (optional for async calls)
 
 📸 Preview
 
-(Add screenshots of Home Page, Search Results, Cart, Checkout, Owner Dashboard)
+<img width="1793" height="739" alt="image" src="https://github.com/user-attachments/assets/916b62a6-8297-4c38-a478-21c1b9edb80a" />
+
 
 📁 Folder Structure
 AI_NATURAL_LANGUAGE_RECOMMENDER_SYSTEM/
