@@ -1,0 +1,27 @@
+<body style="margin: 0; font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; background: linear-gradient(to right, #a1c4fd, #c2e9fb); min-height: 100vh; padding-top: 50px;">
+
+    <h2 style="color:#2c3e50; text-align:center;">
+        ✏️ Edit Campground: {{ camp.name }}
+    </h2>
+
+    <form method="post" style="max-width: 500px; margin: 20px auto; padding: 25px; border-radius: 16px; background: rgba(255, 255, 255, 0.9); box-shadow: 0 8px 20px rgba(0, 0, 0, 0.1);">
+        
+        <label style="display:block; margin-top:10px; color:#34495e;">📍 Location:</label>
+        <input type="text" name="location" value="{{ camp.location }}" style="width:100%; padding:10px; border:1px solid #ccc; border-radius:8px;">
+
+        <label style="display:block; margin-top:10px; color:#34495e;">🏕️ Type:</label>
+        <input type="text" name="type" value="{{ camp.type }}" style="width:100%; padding:10px; border:1px solid #ccc; border-radius:8px;">
+
+        <label style="display:block; margin-top:10px; color:#34495e;">🎯 Activities (comma-separated):</label>
+        <input type="text" name="activities" value="{{ camp.activities }}" style="width:100%; padding:10px; border:1px solid #ccc; border-radius:8px;">
+
+        <label style="display:block; margin-top:10px; color:#34495e;">⚙️ Status:</label>
+        <select name="status" style="width:100%; padding:10px; border:1px solid #ccc; border-radius:8px;">
+            <option value="Active" {% if camp.status == "Active" %}selected{% endif %}>✅ Active</option>
+            <option value="Inactive" {% if camp.status == "Inactive" %}selected{% endif %}>❌ Inactive</option>
+            <option value="TNA" {% if camp.status == "TNA" %}selected{% endif %}>📋 TNA</option>
+        </select>
+
+        <input type="submit" value="💾 Update Campground" style="margin-top:20px; width:100%; padding:12px; background-color:#2ecc71; color:white; font-weight:bold; border:none; border-radius:8px; cursor:pointer;">
+    </form>
+</body> 
