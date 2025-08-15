@@ -1,0 +1,72 @@
+[
+  {
+    "username": "owner1",
+    "type": "Owner"
+  },
+  {
+    "username": "owner2",
+    "type": "Owner"
+  },
+  {
+    "username": "Amishi",
+    "type": "Renter",
+    "favorites": [],
+    "history": [
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Want a cabin in Maharashtra with hiking and toilets, firewood."
+    ]
+  },
+  {
+    "username": "renter1",
+    "type": "Renter",
+    "favorites": [
+      "Chopta Meadows Camp",
+      "Tirthan Valley Retreat"
+    ],
+    "history": [
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Want a cabin"
+    ]
+  },
+  {
+    "username": "renter2",
+    "type": "Renter"
+  },
+  {
+    "username": "user",
+    "type": "Renter",
+    "favorites": [
+      "Chopta Meadows Camp",
+      "Tirthan Valley Retreat",
+      "Sunset Meadows"
+    ],
+    "history": [
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood."
+    ]
+  },
+  {
+    "username": "user2",
+    "type": "Renter",
+    "favorites": [
+      "Jim Corbett Jungle Stay"
+    ],
+    "history": [
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Want a cabin in London with hiking, fishing and toilets, firewood.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Want a cabin in Maharashtra with hiking and toilets, firewood.",
+      "Looking for a tent in Uttarakhand with hiking and toilets.",
+      "Looking for a tent in Uttarakhand with hiking and toilets."
+    ]
+  }
+]

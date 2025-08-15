@@ -1,0 +1,522 @@
+[
+    {
+        "id": "c001",
+        "name": "Himalayan Nest",
+        "location": "Uttarakhand",
+        "type": "tent",
+        "activities": [
+            "hiking",
+            "bonfire"
+        ],
+        "amenities": [
+            "toilets",
+            "water",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/himalayan-nest",
+        "image": "himalayan_nest.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2000,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-07-01",
+                "to": "2025-07-05"
+            },
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            }
+        ]
+    },
+    {
+        "id": "c002",
+        "name": "Coorg Jungle Camp",
+        "location": "Karnataka",
+        "type": "cabin",
+        "activities": [
+            "fishing",
+            "nature walk"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "water",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/coorg-jungle-camp",
+        "image": "coorg_jungle_camp.jpg",
+        "status": "Active",
+        "owner_id": "owner2",
+        "rent": 2400,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            }
+        ]
+    },
+    {
+        "id": "c003",
+        "name": "Desert Safari Camp",
+        "location": "Rajasthan",
+        "type": "RV",
+        "activities": [
+            "camel ride",
+            "stargazing"
+        ],
+        "amenities": [
+            "toilets",
+            "Wi-Fi"
+        ],
+        "booking_url": "https://example.com/desert-safari-camp",
+        "image": "desert_safari_camp.jpg",
+        "status": "TNA",
+        "owner_id": "owner1",
+        "rent": 2800,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c004",
+        "name": "Wayanad Wild",
+        "location": "Kerala",
+        "type": "tent",
+        "activities": [
+            "trekking",
+            "boating"
+        ],
+        "amenities": [
+            "toilets",
+            "water"
+        ],
+        "booking_url": "https://example.com/wayanad-wild",
+        "image": "wayanad_wild.jpg",
+        "status": "Inactive",
+        "owner_id": "owner2",
+        "rent": 2100,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c005",
+        "name": "Sundarbans Eco Retreat",
+        "location": "West Bengal",
+        "type": "cabin",
+        "activities": [
+            "bird watching",
+            "boat ride"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/sundarbans-eco-retreat",
+        "image": "sundarbans_eco_retreat.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2600,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            }
+        ]
+    },
+    {
+        "id": "c006",
+        "name": "Rann Tent City",
+        "location": "Gujarat",
+        "type": "tent",
+        "activities": [
+            "cultural shows",
+            "stargazing"
+        ],
+        "amenities": [
+            "toilets",
+            "water"
+        ],
+        "booking_url": "https://example.com/rann-tent-city",
+        "image": "rann_tent_city.jpg",
+        "status": "Active",
+        "owner_id": "owner2",
+        "rent": 2300,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c007",
+        "name": "Tirthan Valley Retreat",
+        "location": "Himachal Pradesh",
+        "type": "cabin",
+        "activities": [
+            "hiking",
+            "fishing"
+        ],
+        "amenities": [
+            "toilets",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/tirthan-valley-retreat",
+        "image": "tirthan_valley_retreat.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2500,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            }
+        ]
+    },
+    {
+        "id": "c008",
+        "name": "Pench Nature Camp",
+        "location": "Madhya Pradesh",
+        "type": "RV",
+        "activities": [
+            "wildlife safari",
+            "cycling"
+        ],
+        "amenities": [
+            "toilets",
+            "Wi-Fi"
+        ],
+        "booking_url": "https://example.com/pench-nature-camp",
+        "image": "pench_nature_camp.jpg",
+        "status": "TNA",
+        "owner_id": "owner2",
+        "rent": 2700,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c009",
+        "name": "Chilka Lake View",
+        "location": "Odisha",
+        "type": "tent",
+        "activities": [
+            "fishing",
+            "boating"
+        ],
+        "amenities": [
+            "water",
+            "Wi-Fi"
+        ],
+        "booking_url": "https://example.com/chilka-lake-view",
+        "image": "chilka_lake_view.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 1900,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c010",
+        "name": "Shillong Hill Camp",
+        "location": "Meghalaya",
+        "type": "tent",
+        "activities": [
+            "trekking",
+            "bonfire"
+        ],
+        "amenities": [
+            "toilets",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/shillong-hill-camp",
+        "image": "shillong_hill_camp.jpg",
+        "status": "Inactive",
+        "owner_id": "owner2",
+        "rent": 2200,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c011",
+        "name": "Yercaud Hill Camp",
+        "location": "Tamil Nadu",
+        "type": "tent",
+        "activities": [
+            "hiking",
+            "campfire"
+        ],
+        "amenities": [
+            "toilets",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/yercaud-hill-camp",
+        "image": "yercaud_hill_camp.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2100,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            }
+        ]
+    },
+    {
+        "id": "c012",
+        "name": "Pawna Lake Retreat",
+        "location": "Maharashtra",
+        "type": "tent",
+        "activities": [
+            "boating",
+            "bonfire"
+        ],
+        "amenities": [
+            "water",
+            "toilets"
+        ],
+        "booking_url": "https://example.com/pawna-lake-retreat",
+        "image": "pawna_lake_retreat.jpg",
+        "status": "TNA",
+        "owner_id": "owner2",
+        "rent": 2500,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c013",
+        "name": "Mandarmani Coastal Camp",
+        "location": "West Bengal",
+        "type": "cabin",
+        "activities": [
+            "beach walk",
+            "fishing"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "water"
+        ],
+        "booking_url": "https://example.com/mandarmani-coastal-camp",
+        "image": "mandarmani_coastal_camp.jpg",
+        "status": "TNA",
+        "owner_id": "owner1",
+        "rent": 2300,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c014",
+        "name": "Munnar Green Escape",
+        "location": "Kerala",
+        "type": "RV",
+        "activities": [
+            "tea garden walk",
+            "stargazing"
+        ],
+        "amenities": [
+            "toilets",
+            "Wi-Fi"
+        ],
+        "booking_url": "https://example.com/munnar-green-escape",
+        "image": "munnar_green_escape.jpg",
+        "status": "Active",
+        "owner_id": "owner2",
+        "rent": 2900,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c015",
+        "name": "Nag Tibba Trek Camp",
+        "location": "Uttarakhand",
+        "type": "tent",
+        "activities": [
+            "trekking",
+            "bonfire"
+        ],
+        "amenities": [
+            "firewood",
+            "water"
+        ],
+        "booking_url": "https://example.com/nag-tibba-trek-camp",
+        "image": "nag_tibba_trek_camp.jpg",
+        "status": "Inactive",
+        "owner_id": "owner1",
+        "rent": 2400,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c016",
+        "name": "Bhandardara Lakeside",
+        "location": "Maharashtra",
+        "type": "tent",
+        "activities": [
+            "fishing",
+            "kayaking"
+        ],
+        "amenities": [
+            "water",
+            "toilets"
+        ],
+        "booking_url": "https://example.com/bhandardara-lakeside",
+        "image": "bhandardara_lakeside.jpg",
+        "status": "Active",
+        "owner_id": "owner2",
+        "rent": 2200,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c017",
+        "name": "Chopta Meadows Camp",
+        "location": "Uttarakhand",
+        "type": "tent",
+        "activities": [
+            "trekking",
+            "stargazing"
+        ],
+        "amenities": [
+            "firewood",
+            "toilets"
+        ],
+        "booking_url": "https://example.com/chopta-meadows-camp",
+        "image": "chopta_meadows_camp.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 3100,
+        "currency": "USD",
+        "discount": "10%",
+        "bookings": [
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-08-01",
+                "to": "2025-08-10"
+            },
+            {
+                "from": "2025-07-01",
+                "to": "2025-07-05"
+            }
+        ]
+    },
+    {
+        "id": "c018",
+        "name": "Pushkar Camel Camp",
+        "location": "Rajasthan",
+        "type": "RV",
+        "activities": [
+            "camel ride",
+            "music night"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "firewood"
+        ],
+        "booking_url": "https://example.com/pushkar-camel-camp",
+        "image": "pushkar_camel_camp.jpg",
+        "status": "Inactive",
+        "owner_id": "owner2",
+        "rent": 2700,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c019",
+        "name": "Hampi Riverside Stay",
+        "location": "Karnataka",
+        "type": "cabin",
+        "activities": [
+            "cycling",
+            "historical tours"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "water"
+        ],
+        "booking_url": "https://example.com/hampi-riverside-stay",
+        "image": "hampi_riverside_stay.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2600,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c020",
+        "name": "Ziro Valley Camp",
+        "location": "Arunachal Pradesh",
+        "type": "tent",
+        "activities": [
+            "tribal tour",
+            "bonfire"
+        ],
+        "amenities": [
+            "firewood",
+            "toilets"
+        ],
+        "booking_url": "https://example.com/ziro-valley-camp",
+        "image": "ziro_valley_camp.jpg",
+        "status": "TNA",
+        "owner_id": "owner2",
+        "rent": 2300,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c021",
+        "name": "Sunset Meadows",
+        "location": "London",
+        "type": "cabin",
+        "activities": [
+            "hiking",
+            "fishing"
+        ],
+        "amenities": [
+            "Wi-Fi",
+            "water"
+        ],
+        "booking_url": "https://example.com/sunset-meadows",
+        "image": "sunset_meadows.jpg",
+        "status": "Active",
+        "owner_id": "owner1",
+        "rent": 2500,
+        "currency": "USD",
+        "discount": "10%"
+    },
+    {
+        "id": "c022",
+        "name": "Sunset Meadows",
+        "location": "Rajasthan",
+        "type": "tent",
+        "activities": "hiking",
+        "amenities": [
+            "Wi-Fi",
+            "water"
+        ],
+        "status": "Active",
+        "owner_id": "owner1"
+    }
+]

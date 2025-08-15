@@ -1,0 +1,4 @@
+2025-08-03 12:53:58 | User: renter1 | Query: Looking for a tent in Uttarakhand with hiking and toilets, firewood. | Matches: c001 (Uttarakhand) - Score: 7; c017 (Uttarakhand) - Score: 6; c011 (Tamil Nadu) - Score: 4
+2025-08-03 12:56:38 | User: renter1 | Query: Looking for a tent in Uttarakhand with hiking and toilets, firewood. | Matches: c001 (Uttarakhand) - Score: 7; c017 (Uttarakhand) - Score: 6; c011 (Tamil Nadu) - Score: 4
+2025-08-03 12:57:19 | User: renter1 | Query: Looking for a tent in Uttarakhand with hiking and toilets, firewood. | Matches: c001 (Uttarakhand) - Score: 7; c017 (Uttarakhand) - Score: 6; c011 (Tamil Nadu) - Score: 4
+2025-08-03 12:57:36 | User: renter1 | Query: Looking for a tent in Uttarakhand with hiking and toilets, firewood. | Matches: c001 (Uttarakhand) - Score: 7; c017 (Uttarakhand) - Score: 6; c011 (Tamil Nadu) - Score: 4

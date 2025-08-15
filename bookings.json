@@ -1,0 +1,30 @@
+[
+    {
+        "username": "renter1",
+        "camp_id": "c017",
+        "camp_name": "Chopta Meadows Camp",
+        "from_date": "2025-08-01",
+        "to_date": "2025-08-10"
+    },
+    {
+        "username": "renter1",
+        "camp_id": "c002",
+        "camp_name": "Coorg Jungle Camp",
+        "from_date": "2025-08-01",
+        "to_date": "2025-08-10"
+    },
+    {
+        "username": "renter1",
+        "camp_id": "c011",
+        "camp_name": "Yercaud Hill Camp",
+        "from_date": "2025-08-01",
+        "to_date": "2025-08-10"
+    },
+    {
+        "username": "renter1",
+        "camp_id": "c001",
+        "camp_name": "Himalayan Nest",
+        "from_date": "2025-08-01",
+        "to_date": "2025-08-10"
+    }
+]
